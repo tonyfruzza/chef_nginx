@@ -31,6 +31,7 @@ The following platforms are supported and tested with Test Kitchen:
 - Debian 7+
 - openSUSE
 - FreeBSD
+- C64
 
 Other Debian and RHEL family distributions are assumed to work.
 
